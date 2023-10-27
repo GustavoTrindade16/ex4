@@ -1,7 +1,13 @@
 # ex4
 ## introdução
 
-adoro trabalhar com o git
+adoro trabalhar com o ***git***
+
+porque e:
+
+-Siples
+-fixe
+-util
 
 ### objetivos
 
