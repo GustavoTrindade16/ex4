@@ -6,7 +6,9 @@ adoro trabalhar com o ***git***
 porque e:
 
 -Siples
+
 -fixe
+
 -util
 
 ### objetivos
