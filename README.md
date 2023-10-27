@@ -3,6 +3,6 @@
 
 adoro trabalhar com o git
 
-### objeticos
+### objetivos
 
 Este Repositorio serve para aprender sobre git
