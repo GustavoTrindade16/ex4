@@ -5,11 +5,11 @@ adoro trabalhar com o ***git***
 
 porque e:
 
--Siples
+- Siples
 
--fixe
+- fixe
 
--util
+- util
 
 ### objetivos
 
